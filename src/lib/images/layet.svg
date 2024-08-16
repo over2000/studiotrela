@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="107" height="128" viewBox="0 0 107 128">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: red;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1,
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #33a457;
+        stroke-width: .1px;
+      }
+
+      .cls-4 {
+        display: none;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_2" class="cls-4">
+      <rect width="500" height="500" />
+      <rect class="cls-1" width="25" height="25" />
+      <rect class="cls-1" x="25" width="25" height="25" />
+      <rect class="cls-1" x="50" width="25" height="25" />
+      <rect class="cls-1" x="75" width="25" height="25" />
+      <rect class="cls-1" x="100" width="25" height="25" />
+      <rect class="cls-1" x="125" width="25" height="25" />
+      <rect class="cls-1" x="150" width="25" height="25" />
+      <rect class="cls-1" x="175" width="25" height="25" />
+      <rect class="cls-1" x="200" width="25" height="25" />
+      <rect class="cls-1" x="225" width="25" height="25" />
+      <rect class="cls-1" x="250" width="25" height="25" />
+      <rect class="cls-1" x="275" width="25" height="25" />
+      <rect class="cls-1" x="300" width="25" height="25" />
+      <rect class="cls-1" x="325" width="25" height="25" />
+      <rect class="cls-1" x="350" width="25" height="25" />
+      <rect class="cls-1" x="375" width="25" height="25" />
+      <rect class="cls-1" x="400" width="25" height="25" />
+      <rect class="cls-1" x="425" width="25" height="25" />
+      <rect class="cls-1" x="450" width="25" height="25" />
+      <rect class="cls-1" x="475" width="25" height="25" />
+      <rect class="cls-1" y="25" width="25" height="25" />
+      <rect class="cls-1" x="25" y="25" width="25" height="25" />
+      <rect class="cls-1" x="50" y="25" width="25" height="25" />
+      <rect class="cls-1" x="75" y="25" width="25" height="25" />
+      <rect class="cls-1" x="100" y="25" width="25" height="25" />
+      <rect class="cls-1" x="125" y="25" width="25" height="25" />
+      <rect class="cls-1" x="150" y="25" width="25" height="25" />
+      <rect class="cls-1" x="175" y="25" width="25" height="25" />
+      <rect class="cls-1" x="200" y="25" width="25" height="25" />
+      <rect class="cls-1" x="225" y="25" width="25" height="25" />
+      <rect class="cls-1" x="250" y="25" width="25" height="25" />
+      <rect class="cls-1" x="275" y="25" width="25" height="25" />
+      <rect class="cls-1" x="300" y="25" width="25" height="25" />
+      <rect class="cls-1" x="325" y="25" width="25" height="25" />
+      <rect class="cls-1" x="350" y="25" width="25" height="25" />
+      <rect class="cls-1" x="375" y="25" width="25" height="25" />
+      <rect class="cls-1" x="400" y="25" width="25" height="25" />
+      <rect class="cls-1" x="425" y="25" width="25" height="25" />
+      <rect class="cls-1" x="450" y="25" width="25" height="25" />
+      <rect class="cls-1" x="475" y="25" width="25" height="25" />
+      <rect class="cls-1" y="50" width="25" height="25" />
+      <rect class="cls-1" x="25" y="50" width="25" height="25" />
+      <rect class="cls-1" x="50" y="50" width="25" height="25" />
+      <rect class="cls-1" x="75" y="50" width="25" height="25" />
+      <rect class="cls-1" x="100" y="50" width="25" height="25" />
+      <rect class="cls-1" x="125" y="50" width="25" height="25" />
+      <rect class="cls-1" x="150" y="50" width="25" height="25" />
+      <rect class="cls-1" x="175" y="50" width="25" height="25" />
+      <rect class="cls-1" x="200" y="50" width="25" height="25" />
+      <rect class="cls-1" x="225" y="50" width="25" height="25" />
+      <rect class="cls-1" x="250" y="50" width="25" height="25" />
+      <rect class="cls-1" x="275" y="50" width="25" height="25" />
+      <rect class="cls-1" x="300" y="50" width="25" height="25" />
+      <rect class="cls-1" x="325" y="50" width="25" height="25" />
+      <rect class="cls-1" x="350" y="50" width="25" height="25" />
+      <rect class="cls-1" x="375" y="50" width="25" height="25" />
+      <rect class="cls-1" x="400" y="50" width="25" height="25" />
+      <rect class="cls-1" x="425" y="50" width="25" height="25" />
+      <rect class="cls-1" x="450" y="50" width="25" height="25" />
+      <rect class="cls-1" x="475" y="50" width="25" height="25" />
+      <rect class="cls-1" y="75" width="25" height="25" />
+      <rect class="cls-1" x="25" y="75" width="25" height="25" />
+      <rect class="cls-1" x="50" y="75" width="25" height="25" />
+      <rect class="cls-1" x="75" y="75" width="25" height="25" />
+      <rect class="cls-1" x="100" y="75" width="25" height="25" />
+      <rect class="cls-1" x="125" y="75" width="25" height="25" />
+      <rect class="cls-1" x="150" y="75" width="25" height="25" />
+      <rect class="cls-1" x="175" y="75" width="25" height="25" />
+      <rect class="cls-1" x="200" y="75" width="25" height="25" />
+      <rect class="cls-1" x="225" y="75" width="25" height="25" />
+      <rect class="cls-1" x="250" y="75" width="25" height="25" />
+      <rect class="cls-1" x="275" y="75" width="25" height="25" />
+      <rect class="cls-1" x="300" y="75" width="25" height="25" />
+      <rect class="cls-1" x="325" y="75" width="25" height="25" />
+      <rect class="cls-1" x="350" y="75" width="25" height="25" />
+      <rect class="cls-1" x="375" y="75" width="25" height="25" />
+      <rect class="cls-1" x="400" y="75" width="25" height="25" />
+      <rect class="cls-1" x="425" y="75" width="25" height="25" />
+      <rect class="cls-1" x="450" y="75" width="25" height="25" />
+      <rect class="cls-1" x="475" y="75" width="25" height="25" />
+      <rect class="cls-1" y="100" width="25" height="25" />
+      <rect class="cls-1" x="25" y="100" width="25" height="25" />
+      <rect class="cls-1" x="50" y="100" width="25" height="25" />
+      <rect class="cls-1" x="75" y="100" width="25" height="25" />
+      <rect class="cls-1" x="100" y="100" width="25" height="25" />
+      <rect class="cls-1" x="125" y="100" width="25" height="25" />
+      <rect class="cls-1" x="150" y="100" width="25" height="25" />
+      <rect class="cls-1" x="175" y="100" width="25" height="25" />
+      <rect class="cls-1" x="200" y="100" width="25" height="25" />
+      <rect class="cls-1" x="225" y="100" width="25" height="25" />
+      <rect class="cls-1" x="250" y="100" width="25" height="25" />
+      <rect class="cls-1" x="275" y="100" width="25" height="25" />
+      <rect class="cls-1" x="300" y="100" width="25" height="25" />
+      <rect class="cls-1" x="325" y="100" width="25" height="25" />
+      <rect class="cls-1" x="350" y="100" width="25" height="25" />
+      <rect class="cls-1" x="375" y="100" width="25" height="25" />
+      <rect class="cls-1" x="400" y="100" width="25" height="25" />
+      <rect class="cls-1" x="425" y="100" width="25" height="25" />
+      <rect class="cls-1" x="450" y="100" width="25" height="25" />
+      <rect class="cls-1" x="475" y="100" width="25" height="25" />
+      <rect class="cls-1" y="125" width="25" height="25" />
+      <rect class="cls-1" x="25" y="125" width="25" height="25" />
+      <rect class="cls-1" x="50" y="125" width="25" height="25" />
+      <rect class="cls-1" x="75" y="125" width="25" height="25" />
+      <rect class="cls-1" x="100" y="125" width="25" height="25" />
+      <rect class="cls-1" x="125" y="125" width="25" height="25" />
+      <rect class="cls-1" x="150" y="125" width="25" height="25" />
+      <rect class="cls-1" x="175" y="125" width="25" height="25" />
+      <rect class="cls-1" x="200" y="125" width="25" height="25" />
+      <rect class="cls-1" x="225" y="125" width="25" height="25" />
+      <rect class="cls-1" x="250" y="125" width="25" height="25" />
+      <rect class="cls-1" x="275" y="125" width="25" height="25" />
+      <rect class="cls-1" x="300" y="125" width="25" height="25" />
+      <rect class="cls-1" x="325" y="125" width="25" height="25" />
+      <rect class="cls-1" x="350" y="125" width="25" height="25" />
+      <rect class="cls-1" x="375" y="125" width="25" height="25" />
+      <rect class="cls-1" x="400" y="125" width="25" height="25" />
+      <rect class="cls-1" x="425" y="125" width="25" height="25" />
+      <rect class="cls-1" x="450" y="125" width="25" height="25" />
+      <rect class="cls-1" x="475" y="125" width="25" height="25" />
+      <rect class="cls-1" y="150" width="25" height="25" />
+      <rect class="cls-1" x="25" y="150" width="25" height="25" />
+      <rect class="cls-1" x="50" y="150" width="25" height="25" />
+      <rect class="cls-1" x="75" y="150" width="25" height="25" />
+      <rect class="cls-1" x="100" y="150" width="25" height="25" />
+      <rect class="cls-1" x="125" y="150" width="25" height="25" />
+      <rect class="cls-1" x="150" y="150" width="25" height="25" />
+      <rect class="cls-1" x="175" y="150" width="25" height="25" />
+      <rect class="cls-1" x="200" y="150" width="25" height="25" />
+      <rect class="cls-1" x="225" y="150" width="25" height="25" />
+      <rect class="cls-1" x="250" y="150" width="25" height="25" />
+      <rect class="cls-1" x="275" y="150" width="25" height="25" />
+      <rect class="cls-1" x="300" y="150" width="25" height="25" />
+      <rect class="cls-1" x="325" y="150" width="25" height="25" />
+      <rect class="cls-1" x="350" y="150" width="25" height="25" />
+      <rect class="cls-1" x="375" y="150" width="25" height="25" />
+      <rect class="cls-1" x="400" y="150" width="25" height="25" />
+      <rect class="cls-1" x="425" y="150" width="25" height="25" />
+      <rect class="cls-1" x="450" y="150" width="25" height="25" />
+      <rect class="cls-1" x="475" y="150" width="25" height="25" />
+      <rect class="cls-1" y="175" width="25" height="25" />
+      <rect class="cls-1" x="25" y="175" width="25" height="25" />
+      <rect class="cls-1" x="50" y="175" width="25" height="25" />
+      <rect class="cls-1" x="75" y="175" width="25" height="25" />
+      <rect class="cls-1" x="100" y="175" width="25" height="25" />
+      <rect class="cls-1" x="125" y="175" width="25" height="25" />
+      <rect class="cls-1" x="150" y="175" width="25" height="25" />
+      <rect class="cls-1" x="175" y="175" width="25" height="25" />
+      <rect class="cls-1" x="200" y="175" width="25" height="25" />
+      <rect class="cls-1" x="225" y="175" width="25" height="25" />
+      <rect class="cls-1" x="250" y="175" width="25" height="25" />
+      <rect class="cls-1" x="275" y="175" width="25" height="25" />
+      <rect class="cls-1" x="300" y="175" width="25" height="25" />
+      <rect class="cls-1" x="325" y="175" width="25" height="25" />
+      <rect class="cls-1" x="350" y="175" width="25" height="25" />
+      <rect class="cls-1" x="375" y="175" width="25" height="25" />
+      <rect class="cls-1" x="400" y="175" width="25" height="25" />
+      <rect class="cls-1" x="425" y="175" width="25" height="25" />
+      <rect class="cls-1" x="450" y="175" width="25" height="25" />
+      <rect class="cls-1" x="475" y="175" width="25" height="25" />
+      <rect class="cls-1" y="200" width="25" height="25" />
+      <rect class="cls-1" x="25" y="200" width="25" height="25" />
+      <rect class="cls-1" x="50" y="200" width="25" height="25" />
+      <rect class="cls-1" x="75" y="200" width="25" height="25" />
+      <rect class="cls-1" x="100" y="200" width="25" height="25" />
+      <rect class="cls-1" x="125" y="200" width="25" height="25" />
+      <rect class="cls-1" x="150" y="200" width="25" height="25" />
+      <rect class="cls-1" x="175" y="200" width="25" height="25" />
+      <rect class="cls-1" x="200" y="200" width="25" height="25" />
+      <rect class="cls-1" x="225" y="200" width="25" height="25" />
+      <rect class="cls-1" x="250" y="200" width="25" height="25" />
+      <rect class="cls-1" x="275" y="200" width="25" height="25" />
+      <rect class="cls-1" x="300" y="200" width="25" height="25" />
+      <rect class="cls-1" x="325" y="200" width="25" height="25" />
+      <rect class="cls-1" x="350" y="200" width="25" height="25" />
+      <rect class="cls-1" x="375" y="200" width="25" height="25" />
+      <rect class="cls-1" x="400" y="200" width="25" height="25" />
+      <rect class="cls-1" x="425" y="200" width="25" height="25" />
+      <rect class="cls-1" x="450" y="200" width="25" height="25" />
+      <rect class="cls-1" x="475" y="200" width="25" height="25" />
+      <rect class="cls-1" y="225" width="25" height="25" />
+      <rect class="cls-1" x="25" y="225" width="25" height="25" />
+      <rect class="cls-1" x="50" y="225" width="25" height="25" />
+      <rect class="cls-1" x="75" y="225" width="25" height="25" />
+      <rect class="cls-1" x="100" y="225" width="25" height="25" />
+      <rect class="cls-1" x="125" y="225" width="25" height="25" />
+      <rect class="cls-1" x="150" y="225" width="25" height="25" />
+      <rect class="cls-1" x="175" y="225" width="25" height="25" />
+      <rect class="cls-1" x="200" y="225" width="25" height="25" />
+      <rect class="cls-1" x="225" y="225" width="25" height="25" />
+      <rect class="cls-1" x="250" y="225" width="25" height="25" />
+      <rect class="cls-1" x="275" y="225" width="25" height="25" />
+      <rect class="cls-1" x="300" y="225" width="25" height="25" />
+      <rect class="cls-1" x="325" y="225" width="25" height="25" />
+      <rect class="cls-1" x="350" y="225" width="25" height="25" />
+      <rect class="cls-1" x="375" y="225" width="25" height="25" />
+      <rect class="cls-1" x="400" y="225" width="25" height="25" />
+      <rect class="cls-1" x="425" y="225" width="25" height="25" />
+      <rect class="cls-1" x="450" y="225" width="25" height="25" />
+      <rect class="cls-1" x="475" y="225" width="25" height="25" />
+      <rect class="cls-1" y="250" width="25" height="25" />
+      <rect class="cls-1" x="25" y="250" width="25" height="25" />
+      <rect class="cls-1" x="50" y="250" width="25" height="25" />
+      <rect class="cls-1" x="75" y="250" width="25" height="25" />
+      <rect class="cls-1" x="100" y="250" width="25" height="25" />
+      <rect class="cls-1" x="125" y="250" width="25" height="25" />
+      <rect class="cls-1" x="150" y="250" width="25" height="25" />
+      <rect class="cls-1" x="175" y="250" width="25" height="25" />
+      <rect class="cls-1" x="200" y="250" width="25" height="25" />
+      <rect class="cls-1" x="225" y="250" width="25" height="25" />
+      <rect class="cls-1" x="250" y="250" width="25" height="25" />
+      <rect class="cls-1" x="275" y="250" width="25" height="25" />
+      <rect class="cls-1" x="300" y="250" width="25" height="25" />
+      <rect class="cls-1" x="325" y="250" width="25" height="25" />
+      <rect class="cls-1" x="350" y="250" width="25" height="25" />
+      <rect class="cls-1" x="375" y="250" width="25" height="25" />
+      <rect class="cls-1" x="400" y="250" width="25" height="25" />
+      <rect class="cls-1" x="425" y="250" width="25" height="25" />
+      <rect class="cls-1" x="450" y="250" width="25" height="25" />
+      <rect class="cls-1" x="475" y="250" width="25" height="25" />
+      <rect class="cls-1" y="275" width="25" height="25" />
+      <rect class="cls-1" x="25" y="275" width="25" height="25" />
+      <rect class="cls-1" x="50" y="275" width="25" height="25" />
+      <rect class="cls-1" x="75" y="275" width="25" height="25" />
+      <rect class="cls-1" x="100" y="275" width="25" height="25" />
+      <rect class="cls-1" x="125" y="275" width="25" height="25" />
+      <rect class="cls-1" x="150" y="275" width="25" height="25" />
+      <rect class="cls-1" x="175" y="275" width="25" height="25" />
+      <rect class="cls-1" x="200" y="275" width="25" height="25" />
+      <rect class="cls-1" x="225" y="275" width="25" height="25" />
+      <rect class="cls-1" x="250" y="275" width="25" height="25" />
+      <rect class="cls-1" x="275" y="275" width="25" height="25" />
+      <rect class="cls-1" x="300" y="275" width="25" height="25" />
+      <rect class="cls-1" x="325" y="275" width="25" height="25" />
+      <rect class="cls-1" x="350" y="275" width="25" height="25" />
+      <rect class="cls-1" x="375" y="275" width="25" height="25" />
+      <rect class="cls-1" x="400" y="275" width="25" height="25" />
+      <rect class="cls-1" x="425" y="275" width="25" height="25" />
+      <rect class="cls-1" x="450" y="275" width="25" height="25" />
+      <rect class="cls-1" x="475" y="275" width="25" height="25" />
+      <rect class="cls-1" y="300" width="25" height="25" />
+      <rect class="cls-1" x="25" y="300" width="25" height="25" />
+      <rect class="cls-1" x="50" y="300" width="25" height="25" />
+      <rect class="cls-1" x="75" y="300" width="25" height="25" />
+      <rect class="cls-1" x="100" y="300" width="25" height="25" />
+      <rect class="cls-1" x="125" y="300" width="25" height="25" />
+      <rect class="cls-1" x="150" y="300" width="25" height="25" />
+      <rect class="cls-1" x="175" y="300" width="25" height="25" />
+      <rect class="cls-1" x="200" y="300" width="25" height="25" />
+      <rect class="cls-1" x="225" y="300" width="25" height="25" />
+      <rect class="cls-1" x="250" y="300" width="25" height="25" />
+      <rect class="cls-1" x="275" y="300" width="25" height="25" />
+      <rect class="cls-1" x="300" y="300" width="25" height="25" />
+      <rect class="cls-1" x="325" y="300" width="25" height="25" />
+      <rect class="cls-1" x="350" y="300" width="25" height="25" />
+      <rect class="cls-1" x="375" y="300" width="25" height="25" />
+      <rect class="cls-1" x="400" y="300" width="25" height="25" />
+      <rect class="cls-1" x="425" y="300" width="25" height="25" />
+      <rect class="cls-1" x="450" y="300" width="25" height="25" />
+      <rect class="cls-1" x="475" y="300" width="25" height="25" />
+      <rect class="cls-1" y="325" width="25" height="25" />
+      <rect class="cls-1" x="25" y="325" width="25" height="25" />
+      <rect class="cls-1" x="50" y="325" width="25" height="25" />
+      <rect class="cls-1" x="75" y="325" width="25" height="25" />
+      <rect class="cls-1" x="100" y="325" width="25" height="25" />
+      <rect class="cls-1" x="125" y="325" width="25" height="25" />
+      <rect class="cls-1" x="150" y="325" width="25" height="25" />
+      <rect class="cls-1" x="175" y="325" width="25" height="25" />
+      <rect class="cls-1" x="200" y="325" width="25" height="25" />
+      <rect class="cls-1" x="225" y="325" width="25" height="25" />
+      <rect class="cls-1" x="250" y="325" width="25" height="25" />
+      <rect class="cls-1" x="275" y="325" width="25" height="25" />
+      <rect class="cls-1" x="300" y="325" width="25" height="25" />
+      <rect class="cls-1" x="325" y="325" width="25" height="25" />
+      <rect class="cls-1" x="350" y="325" width="25" height="25" />
+      <rect class="cls-1" x="375" y="325" width="25" height="25" />
+      <rect class="cls-1" x="400" y="325" width="25" height="25" />
+      <rect class="cls-1" x="425" y="325" width="25" height="25" />
+      <rect class="cls-1" x="450" y="325" width="25" height="25" />
+      <rect class="cls-1" x="475" y="325" width="25" height="25" />
+      <rect class="cls-1" y="350" width="25" height="25" />
+      <rect class="cls-1" x="25" y="350" width="25" height="25" />
+      <rect class="cls-1" x="50" y="350" width="25" height="25" />
+      <rect class="cls-1" x="75" y="350" width="25" height="25" />
+      <rect class="cls-1" x="100" y="350" width="25" height="25" />
+      <rect class="cls-1" x="125" y="350" width="25" height="25" />
+      <rect class="cls-1" x="150" y="350" width="25" height="25" />
+      <rect class="cls-1" x="175" y="350" width="25" height="25" />
+      <rect class="cls-1" x="200" y="350" width="25" height="25" />
+      <rect class="cls-1" x="225" y="350" width="25" height="25" />
+      <rect class="cls-1" x="250" y="350" width="25" height="25" />
+      <rect class="cls-1" x="275" y="350" width="25" height="25" />
+      <rect class="cls-1" x="300" y="350" width="25" height="25" />
+      <rect class="cls-1" x="325" y="350" width="25" height="25" />
+      <rect class="cls-1" x="350" y="350" width="25" height="25" />
+      <rect class="cls-1" x="375" y="350" width="25" height="25" />
+      <rect class="cls-1" x="400" y="350" width="25" height="25" />
+      <rect class="cls-1" x="425" y="350" width="25" height="25" />
+      <rect class="cls-1" x="450" y="350" width="25" height="25" />
+      <rect class="cls-1" x="475" y="350" width="25" height="25" />
+      <rect class="cls-1" y="375" width="25" height="25" />
+      <rect class="cls-1" x="25" y="375" width="25" height="25" />
+      <rect class="cls-1" x="50" y="375" width="25" height="25" />
+      <rect class="cls-1" x="75" y="375" width="25" height="25" />
+      <rect class="cls-1" x="100" y="375" width="25" height="25" />
+      <rect class="cls-1" x="125" y="375" width="25" height="25" />
+      <rect class="cls-1" x="150" y="375" width="25" height="25" />
+      <rect class="cls-1" x="175" y="375" width="25" height="25" />
+      <rect class="cls-1" x="200" y="375" width="25" height="25" />
+      <rect class="cls-1" x="225" y="375" width="25" height="25" />
+      <rect class="cls-1" x="250" y="375" width="25" height="25" />
+      <rect class="cls-1" x="275" y="375" width="25" height="25" />
+      <rect class="cls-1" x="300" y="375" width="25" height="25" />
+      <rect class="cls-1" x="325" y="375" width="25" height="25" />
+      <rect class="cls-1" x="350" y="375" width="25" height="25" />
+      <rect class="cls-1" x="375" y="375" width="25" height="25" />
+      <rect class="cls-1" x="400" y="375" width="25" height="25" />
+      <rect class="cls-1" x="425" y="375" width="25" height="25" />
+      <rect class="cls-1" x="450" y="375" width="25" height="25" />
+      <rect class="cls-1" x="475" y="375" width="25" height="25" />
+      <rect class="cls-1" y="400" width="25" height="25" />
+      <rect class="cls-1" x="25" y="400" width="25" height="25" />
+      <rect class="cls-1" x="50" y="400" width="25" height="25" />
+      <rect class="cls-1" x="75" y="400" width="25" height="25" />
+      <rect class="cls-1" x="100" y="400" width="25" height="25" />
+      <rect class="cls-1" x="125" y="400" width="25" height="25" />
+      <rect class="cls-1" x="150" y="400" width="25" height="25" />
+      <rect class="cls-1" x="175" y="400" width="25" height="25" />
+      <rect class="cls-1" x="200" y="400" width="25" height="25" />
+      <rect class="cls-1" x="225" y="400" width="25" height="25" />
+      <rect class="cls-1" x="250" y="400" width="25" height="25" />
+      <rect class="cls-1" x="275" y="400" width="25" height="25" />
+      <rect class="cls-1" x="300" y="400" width="25" height="25" />
+      <rect class="cls-1" x="325" y="400" width="25" height="25" />
+      <rect class="cls-1" x="350" y="400" width="25" height="25" />
+      <rect class="cls-1" x="375" y="400" width="25" height="25" />
+      <rect class="cls-1" x="400" y="400" width="25" height="25" />
+      <rect class="cls-1" x="425" y="400" width="25" height="25" />
+      <rect class="cls-1" x="450" y="400" width="25" height="25" />
+      <rect class="cls-1" x="475" y="400" width="25" height="25" />
+      <rect class="cls-1" y="425" width="25" height="25" />
+      <rect class="cls-1" x="25" y="425" width="25" height="25" />
+      <rect class="cls-1" x="50" y="425" width="25" height="25" />
+      <rect class="cls-1" x="75" y="425" width="25" height="25" />
+      <rect class="cls-1" x="100" y="425" width="25" height="25" />
+      <rect class="cls-1" x="125" y="425" width="25" height="25" />
+      <rect class="cls-1" x="150" y="425" width="25" height="25" />
+      <rect class="cls-1" x="175" y="425" width="25" height="25" />
+      <rect class="cls-1" x="200" y="425" width="25" height="25" />
+      <rect class="cls-1" x="225" y="425" width="25" height="25" />
+      <rect class="cls-1" x="250" y="425" width="25" height="25" />
+      <rect class="cls-1" x="275" y="425" width="25" height="25" />
+      <rect class="cls-1" x="300" y="425" width="25" height="25" />
+      <rect class="cls-1" x="325" y="425" width="25" height="25" />
+      <rect class="cls-1" x="350" y="425" width="25" height="25" />
+      <rect class="cls-1" x="375" y="425" width="25" height="25" />
+      <rect class="cls-1" x="400" y="425" width="25" height="25" />
+      <rect class="cls-1" x="425" y="425" width="25" height="25" />
+      <rect class="cls-1" x="450" y="425" width="25" height="25" />
+      <rect class="cls-1" x="475" y="425" width="25" height="25" />
+      <rect class="cls-1" y="450" width="25" height="25" />
+      <rect class="cls-1" x="25" y="450" width="25" height="25" />
+      <rect class="cls-1" x="50" y="450" width="25" height="25" />
+      <rect class="cls-1" x="75" y="450" width="25" height="25" />
+      <rect class="cls-1" x="100" y="450" width="25" height="25" />
+      <rect class="cls-1" x="125" y="450" width="25" height="25" />
+      <rect class="cls-1" x="150" y="450" width="25" height="25" />
+      <rect class="cls-1" x="175" y="450" width="25" height="25" />
+      <rect class="cls-1" x="200" y="450" width="25" height="25" />
+      <rect class="cls-1" x="225" y="450" width="25" height="25" />
+      <rect class="cls-1" x="250" y="450" width="25" height="25" />
+      <rect class="cls-1" x="275" y="450" width="25" height="25" />
+      <rect class="cls-1" x="300" y="450" width="25" height="25" />
+      <rect class="cls-1" x="325" y="450" width="25" height="25" />
+      <rect class="cls-1" x="350" y="450" width="25" height="25" />
+      <rect class="cls-1" x="375" y="450" width="25" height="25" />
+      <rect class="cls-1" x="400" y="450" width="25" height="25" />
+      <rect class="cls-1" x="425" y="450" width="25" height="25" />
+      <rect class="cls-1" x="450" y="450" width="25" height="25" />
+      <rect class="cls-1" x="475" y="450" width="25" height="25" />
+      <rect class="cls-1" y="475" width="25" height="25" />
+      <rect class="cls-1" x="25" y="475" width="25" height="25" />
+      <rect class="cls-1" x="50" y="475" width="25" height="25" />
+      <rect class="cls-1" x="75" y="475" width="25" height="25" />
+      <rect class="cls-1" x="100" y="475" width="25" height="25" />
+      <rect class="cls-1" x="125" y="475" width="25" height="25" />
+      <rect class="cls-1" x="150" y="475" width="25" height="25" />
+      <rect class="cls-1" x="175" y="475" width="25" height="25" />
+      <rect class="cls-1" x="200" y="475" width="25" height="25" />
+      <rect class="cls-1" x="225" y="475" width="25" height="25" />
+      <rect class="cls-1" x="250" y="475" width="25" height="25" />
+      <rect class="cls-1" x="275" y="475" width="25" height="25" />
+      <rect class="cls-1" x="300" y="475" width="25" height="25" />
+      <rect class="cls-1" x="325" y="475" width="25" height="25" />
+      <rect class="cls-1" x="350" y="475" width="25" height="25" />
+      <rect class="cls-1" x="375" y="475" width="25" height="25" />
+      <rect class="cls-1" x="400" y="475" width="25" height="25" />
+      <rect class="cls-1" x="425" y="475" width="25" height="25" />
+      <rect class="cls-1" x="450" y="475" width="25" height="25" />
+      <rect class="cls-1" x="475" y="475" width="25" height="25" />
+      <g>
+        <line class="cls-2" x1="500" y1="-100" x2="500" y2="600" />
+        <line class="cls-2" x1="475" y1="-100" x2="475" y2="600" />
+        <line class="cls-2" x1="475" y1="-100" x2="475" y2="600" />
+        <line class="cls-2" x1="450" y1="-100" x2="450" y2="600" />
+        <line class="cls-2" x1="450" y1="-100" x2="450" y2="600" />
+        <line class="cls-2" x1="425" y1="-100" x2="425" y2="600" />
+        <line class="cls-2" x1="425" y1="-100" x2="425" y2="600" />
+        <line class="cls-2" x1="400" y1="-100" x2="400" y2="600" />
+        <line class="cls-2" x1="400" y1="-100" x2="400" y2="600" />
+        <line class="cls-2" x1="375" y1="-100" x2="375" y2="600" />
+        <line class="cls-2" x1="375" y1="-100" x2="375" y2="600" />
+        <line class="cls-2" x1="350" y1="-100" x2="350" y2="600" />
+        <line class="cls-2" x1="350" y1="-100" x2="350" y2="600" />
+        <line class="cls-2" x1="325" y1="-100" x2="325" y2="600" />
+        <line class="cls-2" x1="325" y1="-100" x2="325" y2="600" />
+        <line class="cls-2" x1="300" y1="-100" x2="300" y2="600" />
+        <line class="cls-2" x1="300" y1="-100" x2="300" y2="600" />
+        <line class="cls-2" x1="275" y1="-100" x2="275" y2="600" />
+        <line class="cls-2" x1="275" y1="-100" x2="275" y2="600" />
+        <line class="cls-2" x1="250" y1="-100" x2="250" y2="600" />
+        <line class="cls-2" x1="250" y1="-100" x2="250" y2="600" />
+        <line class="cls-2" x1="225" y1="-100" x2="225" y2="600" />
+        <line class="cls-2" x1="225" y1="-100" x2="225" y2="600" />
+        <line class="cls-2" x1="200" y1="-100" x2="200" y2="600" />
+        <line class="cls-2" x1="200" y1="-100" x2="200" y2="600" />
+        <line class="cls-2" x1="175" y1="-100" x2="175" y2="600" />
+        <line class="cls-2" x1="175" y1="-100" x2="175" y2="600" />
+        <line class="cls-2" x1="150" y1="-100" x2="150" y2="600" />
+        <line class="cls-2" x1="150" y1="-100" x2="150" y2="600" />
+        <line class="cls-2" x1="125" y1="-100" x2="125" y2="600" />
+        <line class="cls-2" x1="125" y1="-100" x2="125" y2="600" />
+        <line class="cls-2" x1="100" y1="-100" x2="100" y2="600" />
+        <line class="cls-2" x1="100" y1="-100" x2="100" y2="600" />
+        <line class="cls-2" x1="75" y1="-100" x2="75" y2="600" />
+        <line class="cls-2" x1="75" y1="-100" x2="75" y2="600" />
+        <line class="cls-2" x1="50" y1="-100" x2="50" y2="600" />
+        <line class="cls-2" x1="50" y1="-100" x2="50" y2="600" />
+        <line class="cls-2" x1="25" y1="-100" x2="25" y2="600" />
+        <line class="cls-2" x1="25" y1="-100" x2="25" y2="600" />
+        <line class="cls-2" y1="-100" y2="600" />
+        <line class="cls-2" x1="-100" y1="500" x2="600" y2="500" />
+        <line class="cls-2" x1="-100" y1="475" x2="600" y2="475" />
+        <line class="cls-2" x1="-100" y1="475" x2="600" y2="475" />
+        <line class="cls-2" x1="-100" y1="450" x2="600" y2="450" />
+        <line class="cls-2" x1="-100" y1="450" x2="600" y2="450" />
+        <line class="cls-2" x1="-100" y1="425" x2="600" y2="425" />
+        <line class="cls-2" x1="-100" y1="425" x2="600" y2="425" />
+        <line class="cls-2" x1="-100" y1="400" x2="600" y2="400" />
+        <line class="cls-2" x1="-100" y1="400" x2="600" y2="400" />
+        <line class="cls-2" x1="-100" y1="375" x2="600" y2="375" />
+        <line class="cls-2" x1="-100" y1="375" x2="600" y2="375" />
+        <line class="cls-2" x1="-100" y1="350" x2="600" y2="350" />
+        <line class="cls-2" x1="-100" y1="350" x2="600" y2="350" />
+        <line class="cls-2" x1="-100" y1="325" x2="600" y2="325" />
+        <line class="cls-2" x1="-100" y1="325" x2="600" y2="325" />
+        <line class="cls-2" x1="-100" y1="300" x2="600" y2="300" />
+        <line class="cls-2" x1="-100" y1="300" x2="600" y2="300" />
+        <line class="cls-2" x1="-100" y1="275" x2="600" y2="275" />
+        <line class="cls-2" x1="-100" y1="275" x2="600" y2="275" />
+        <line class="cls-2" x1="-100" y1="250" x2="600" y2="250" />
+        <line class="cls-2" x1="-100" y1="250" x2="600" y2="250" />
+        <line class="cls-2" x1="-100" y1="225" x2="600" y2="225" />
+        <line class="cls-2" x1="-100" y1="225" x2="600" y2="225" />
+        <line class="cls-2" x1="-100" y1="200" x2="600" y2="200" />
+        <line class="cls-2" x1="-100" y1="200" x2="600" y2="200" />
+        <line class="cls-2" x1="-100" y1="175" x2="600" y2="175" />
+        <line class="cls-2" x1="-100" y1="175" x2="600" y2="175" />
+        <line class="cls-2" x1="-100" y1="150" x2="600" y2="150" />
+        <line class="cls-2" x1="-100" y1="150" x2="600" y2="150" />
+        <line class="cls-2" x1="-100" y1="125" x2="600" y2="125" />
+        <line class="cls-2" x1="-100" y1="125" x2="600" y2="125" />
+        <line class="cls-2" x1="-100" y1="100" x2="600" y2="100" />
+        <line class="cls-2" x1="-100" y1="100" x2="600" y2="100" />
+        <line class="cls-2" x1="-100" y1="75" x2="600" y2="75" />
+        <line class="cls-2" x1="-100" y1="75" x2="600" y2="75" />
+        <line class="cls-2" x1="-100" y1="50" x2="600" y2="50" />
+        <line class="cls-2" x1="-100" y1="50" x2="600" y2="50" />
+        <line class="cls-2" x1="-100" y1="25" x2="600" y2="25" />
+        <line class="cls-2" x1="-100" y1="25" x2="600" y2="25" />
+        <line class="cls-2" x1="-100" x2="600" />
+      </g>
+    </g>
+    <g id="Layer_3" class="cls-4">
+      <rect x="-6" y="-6" width="512" height="512" />
+    </g>
+    <g id="Layer_1">
+      <g>
+        <g>
+          <path class="cls-3"
+            d="M113.15,156.54s6.91,28.96,56.27,41.13c49.36,12.18,48.54,36.86,48.54,36.86v47.06s-1.04-18.65-72.07-39.65c-20.13-6.42-33.51-12.56-32.74-85.39Z" />
+          <path class="cls-3"
+            d="M386.85,156.54s-6.91,28.96-56.27,41.13c-49.36,12.18-48.54,36.86-48.54,36.86v47.06s1.04-18.65,72.07-39.65c20.13-6.42,33.51-12.56,32.74-85.39Z" />
+        </g>
+        <path class="cls-3"
+          d="M136.03,306.71s29.79,33.78,111.33,33.78,111.33-33.78,111.33-33.78c0,0-29.4,95.65-111.33,95.65s-111.33-95.65-111.33-95.65Z" />
+        <path class="cls-3"
+          d="M250,475c-124.07,0-225-100.94-225-225S125.93,25,250,25s225,100.93,225,225-100.94,225-225,225ZM250,51.33c-109.55,0-198.67,89.13-198.67,198.67s89.13,198.67,198.67,198.67,198.67-89.12,198.67-198.67S359.55,51.33,250,51.33Z" />
+      </g>
+    </g>
+  </g>
+</svg>

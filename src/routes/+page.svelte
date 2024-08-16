@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="video-background">
-	<video autoplay muted loop class="background-video">
+	<video autoplay muted loop playsinline class="background-video">
 		<source src={backgroundVideo} type="video/mp4" />
 		Seu navegador não suporta a tag de vídeo.
 	</video>
@@ -34,10 +34,10 @@
 		
 		<!-- Glitches adicionais -->
 		<span class="glitch">⋆</span>
-		<span class="glitch">˚</span>
+		<span class="glitch">❦</span>
 		<span class="glitch">⋆</span>
 		<span class="glitch">♱</span>
-		<span class="glitch">｡</span>
+		<span class="glitch">♡ྀི</span>
 		<span class="glitch">⋆</span>
 	</div>
 </div>
@@ -109,7 +109,7 @@
 	.glitch {
 		position: absolute;
 		color: pink;
-		font-size: 48px;
+		font-size: 58px;
 		animation: glitch 3s infinite ease-in-out;
 		opacity: 0.8;
 	}
