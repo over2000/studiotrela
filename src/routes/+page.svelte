@@ -15,7 +15,7 @@
 		<source src={backgroundVideo} type="video/mp4" />
 		Seu navegador não suporta a tag de vídeo.
 	</video>
-	
+
 	<section class="content">
 		<h1>
 			<span class="welcome">
@@ -28,16 +28,16 @@
 	</section>
 
 	<div class="falling-characters">
-		<span class="character">💋ྀིྀི</span>
-		<span class="character">Ⲧ ℛ ᙓ ᥨ ລ</span>
-		<span class="character">🍒</span>
-		
+		<span class="character">𝖘𝖎𝖙𝖊</span>
+		<span class="character"> 𝖇𝖞 </span>
+		<span class="character"> བཔཇའ 💋ྀིྀི </span>
+
 		<!-- Glitches adicionais -->
 		<span class="glitch">⋆</span>
-		<span class="glitch">❦</span>
+		<span class="glitch">Ⲧ ℛ ᙓ ᥨ ລ </span>
 		<span class="glitch">⋆</span>
 		<span class="glitch">♱</span>
-		<span class="glitch">♡ྀི</span>
+		<span class="glitch">🫧</span>
 		<span class="glitch">⋆</span>
 	</div>
 </div>
@@ -100,9 +100,9 @@
 
 	.character {
 		position: absolute;
-		color: pink;
-		font-size: 29px; /* Tamanho dos caracteres reduzido */
-		animation: fall 5s infinite linear;
+		color: greenyellow;
+		font-size: 12px; /* Tamanho dos caracteres reduzido */
+		animation: float 6s infinite ease-in-out;
 		opacity: 0.8;
 	}
 
@@ -114,17 +114,15 @@
 		opacity: 0.8;
 	}
 
-	@keyframes fall {
+	@keyframes float {
 		0% {
-			transform: translateY(-100%);
-			opacity: 0;
+			transform: translateY(-50%) translateX(0);
 		}
-		10% {
-			opacity: 0.8;
+		50% {
+			transform: translateY(50%) translateX(20px);
 		}
 		100% {
-			transform: translateY(100vh);
-			opacity: 0;
+			transform: translateY(-50%) translateX(0);
 		}
 	}
 
