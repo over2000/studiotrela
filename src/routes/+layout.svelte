@@ -25,9 +25,9 @@
 	</main>
 
 	<footer>
-		<p>STUDIO TRELA
+		<p><b>STUDIO TRELA</b>
 
-			© 2023</p>
+			© 2024</p>
 	</footer>
 </div>
 
